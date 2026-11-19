@@ -1,26 +1,27 @@
- 
+# Bob the Clown Escapes the Circus
 
+A beginner-friendly beta built with Microsoft MakeCode Arcade.
 
-> Open this page at [https://adavis3143-stack.github.io/bob-the-clown-escapes-the-circus/](https://adavis3143-stack.github.io/bob-the-clown-escapes-the-circus/)
+## Controls
 
-## Use as Extension
+- **Left / Right:** Move
+- **A or Up:** Jump
+- **Down or B:** Stomp
 
-This repository can be added as an **extension** in MakeCode.
+## Beta features
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/adavis3143-stack/bob-the-clown-escapes-the-circus** and import
+- Side-scrolling platforming
+- Simple jumping and Bigfoot stomping
+- A moving Jester enemy
+- A circus exit
+- Hospital plot-twist ending
 
-## Edit this project
+## Play
 
-To edit this repository in MakeCode.
+Open the repository in MakeCode Arcade:
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/adavis3143-stack/bob-the-clown-escapes-the-circus** and click import
+https://arcade.makecode.com/
 
-#### Metadata (used for search, rendering)
+Choose **Import**, then **Import URL**, and paste:
 
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+https://github.com/adavis3143-stack/bob-the-clown-escapes-the-circus
